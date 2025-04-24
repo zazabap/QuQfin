@@ -40,10 +40,11 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Citation
 
 If you use QuQfin in your research, please cite the following paper:
+
 ``` bibtex
 @software{quqfin2023,
   title = {QuQFin: A Quantum-Accelerated Quantitative Finance Library},
-  year = {2023},
+  year = {2025},
   url = {https://github.com/zazabap/quqfin}
 }
 ```
