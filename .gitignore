@@ -1,0 +1,22 @@
+# Python packaging
+*.egg-info/
+*.egg
+dist/
+build/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+
+# IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Misc
+.DS_Store
